@@ -84,9 +84,6 @@ map <silent>\ <C-w>v
 " Horizontal splitting
 map <silent>] <C-w>S
 
-" Kill last splitting
-map <silent>; <C-W>q
-
 map <F8> :set paste!<CR>
 map <silent>n :set nu!<CR>
 
